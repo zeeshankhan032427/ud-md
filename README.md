@@ -1,4 +1,4 @@
-# Ud_Md By Umar Rehman
+# Ud_Md By ZEESHAN ANSARI
 
 
 
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://instagram.com/dark-umar404"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/923165123719"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/923111054738"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 
@@ -29,7 +29,7 @@
 ----------
 
 <p align="center">
-  <a href="https://www.youtube.com/c/UMARMODS"
+  <a https://youtube.com/@zeeshantechnicalbestwhatsa262"
 </p>
 
 -------
@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wa.me/923165123719"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/923111054738"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -297,7 +297,7 @@ conn.sendButton(m.chat, 'Hello world!', 'Ud-', 'https://github.com/umar404',
 > You can change in `config.js`, on global.owner. make sure you use correct syntax.
 ```js
 global.owner = [
-  ['923165123719', 'Name', true]
+  ['923111054738', 'Name', true]
 ]
 ```
 > First argument on array is number like `923165123719`, second argument is name like `Name` (if this argument pass, if using `owner` command, this number will send as owner), third argument is developer like `true` (if this argument pass, if there have plugins error (not syntax error) the error will send to developer)
